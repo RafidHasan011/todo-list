@@ -1,1 +1,1 @@
-# This the ToDo-List app with javascript.
+# This is the ToDo-List app with javascript.
